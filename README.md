@@ -85,7 +85,7 @@ You can use:
       │       └── closed/
       │
       ├── utils/
-      │   └── alerts.py
+      │   └── alerts1.py
       │
       ├── venv/
       ├── alarm.mp3
