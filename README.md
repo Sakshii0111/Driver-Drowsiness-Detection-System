@@ -39,6 +39,36 @@ If:
      🔊 Alarm
      📩 SMS
      📧 Email
+
+
+---
+
+## 📊 Dataset Information
+
+The model is trained on an eye-state classification dataset.
+
+### 📂 Dataset Structure
+- **Train set**
+  - Open eyes images  
+  - Closed eyes images  
+- **Test set**
+  - Open eyes images  
+  - Closed eyes images  
+
+### 📌 Details
+- Image size: 64 × 64 pixels  
+- Classes:
+  - 👁️ Open Eye  
+  - 😴 Closed Eye  
+
+### 📥 Dataset Source
+You can use:
+- Kaggle Eye Dataset  
+- MRL Eye Dataset  
+
+👉 If dataset is not included in repo, download and place it in:
+     
+
    
 
 
